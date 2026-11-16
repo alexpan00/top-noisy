@@ -1,7 +1,7 @@
 track Young_B31_filtered_mm39_sqanti3
 bigDataUrl Young_B31_filtered/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Young B31 filt all
+longLabel Young B31 (filtered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -150,8 +150,8 @@ searchTrix Young_B31_filtered/trix.ix
 
 track Young_B31_filtered_mm39_sqanti3_full-splice_match
 bigDataUrl Young_B31_filtered/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Young B31 filt FSM
+longLabel Young B31 (filtered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -298,8 +298,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B31_filtered_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Young_B31_filtered/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Young B31 filt ISM
+longLabel Young B31 (filtered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -446,8 +446,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B31_filtered_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Young_B31_filtered/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Young B31 filt NNC
+longLabel Young B31 (filtered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -594,8 +594,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B31_filtered_mm39_sqanti3_novel_in_catalog
 bigDataUrl Young_B31_filtered/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Young B31 filt NIC
+longLabel Young B31 (filtered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -742,8 +742,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B31_filtered_mm39_sqanti3_fusion
 bigDataUrl Young_B31_filtered/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Young B31 filt fusion
+longLabel Young B31 (filtered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -890,8 +890,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B32_filtered_mm39_sqanti3
 bigDataUrl Young_B32_filtered/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Young B32 filt all
+longLabel Young B32 (filtered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -1040,8 +1040,8 @@ searchTrix Young_B32_filtered/trix.ix
 
 track Young_B32_filtered_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Young_B32_filtered/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Young B32 filt ISM
+longLabel Young B32 (filtered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -1188,8 +1188,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B32_filtered_mm39_sqanti3_full-splice_match
 bigDataUrl Young_B32_filtered/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Young B32 filt FSM
+longLabel Young B32 (filtered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -1336,8 +1336,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B32_filtered_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Young_B32_filtered/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Young B32 filt NNC
+longLabel Young B32 (filtered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -1484,8 +1484,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B32_filtered_mm39_sqanti3_novel_in_catalog
 bigDataUrl Young_B32_filtered/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Young B32 filt NIC
+longLabel Young B32 (filtered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -1632,8 +1632,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B32_filtered_mm39_sqanti3_fusion
 bigDataUrl Young_B32_filtered/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Young B32 filt fusion
+longLabel Young B32 (filtered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -1780,8 +1780,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B32_filtered_mm39_sqanti3_antisense
 bigDataUrl Young_B32_filtered/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Young B32 filt antisense
+longLabel Young B32 (filtered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -1928,8 +1928,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B33_filtered_mm39_sqanti3
 bigDataUrl Young_B33_filtered/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Young B33 filt all
+longLabel Young B33 (filtered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -2078,8 +2078,8 @@ searchTrix Young_B33_filtered/trix.ix
 
 track Young_B33_filtered_mm39_sqanti3_full-splice_match
 bigDataUrl Young_B33_filtered/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Young B33 filt FSM
+longLabel Young B33 (filtered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -2226,8 +2226,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B33_filtered_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Young_B33_filtered/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Young B33 filt ISM
+longLabel Young B33 (filtered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -2374,8 +2374,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B33_filtered_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Young_B33_filtered/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Young B33 filt NNC
+longLabel Young B33 (filtered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -2522,8 +2522,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B33_filtered_mm39_sqanti3_novel_in_catalog
 bigDataUrl Young_B33_filtered/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Young B33 filt NIC
+longLabel Young B33 (filtered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -2670,8 +2670,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B33_filtered_mm39_sqanti3_fusion
 bigDataUrl Young_B33_filtered/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Young B33 filt fusion
+longLabel Young B33 (filtered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -2818,8 +2818,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B33_filtered_mm39_sqanti3_antisense
 bigDataUrl Young_B33_filtered/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Young B33 filt antisense
+longLabel Young B33 (filtered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -2966,8 +2966,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B34_filtered_mm39_sqanti3
 bigDataUrl Young_B34_filtered/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Young B34 filt all
+longLabel Young B34 (filtered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -3116,8 +3116,8 @@ searchTrix Young_B34_filtered/trix.ix
 
 track Young_B34_filtered_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Young_B34_filtered/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Young B34 filt ISM
+longLabel Young B34 (filtered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -3264,8 +3264,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B34_filtered_mm39_sqanti3_full-splice_match
 bigDataUrl Young_B34_filtered/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Young B34 filt FSM
+longLabel Young B34 (filtered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -3412,8 +3412,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B34_filtered_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Young_B34_filtered/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Young B34 filt NNC
+longLabel Young B34 (filtered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -3560,8 +3560,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B34_filtered_mm39_sqanti3_novel_in_catalog
 bigDataUrl Young_B34_filtered/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Young B34 filt NIC
+longLabel Young B34 (filtered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -3708,8 +3708,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B34_filtered_mm39_sqanti3_fusion
 bigDataUrl Young_B34_filtered/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Young B34 filt fusion
+longLabel Young B34 (filtered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -3856,8 +3856,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B35_filtered_mm39_sqanti3
 bigDataUrl Young_B35_filtered/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Young B35 filt all
+longLabel Young B35 (filtered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -4006,8 +4006,8 @@ searchTrix Young_B35_filtered/trix.ix
 
 track Young_B35_filtered_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Young_B35_filtered/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Young B35 filt ISM
+longLabel Young B35 (filtered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -4154,8 +4154,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B35_filtered_mm39_sqanti3_full-splice_match
 bigDataUrl Young_B35_filtered/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Young B35 filt FSM
+longLabel Young B35 (filtered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -4302,8 +4302,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B35_filtered_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Young_B35_filtered/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Young B35 filt NNC
+longLabel Young B35 (filtered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -4450,8 +4450,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B35_filtered_mm39_sqanti3_novel_in_catalog
 bigDataUrl Young_B35_filtered/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Young B35 filt NIC
+longLabel Young B35 (filtered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -4598,8 +4598,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B35_filtered_mm39_sqanti3_fusion
 bigDataUrl Young_B35_filtered/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Young B35 filt fusion
+longLabel Young B35 (filtered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -4746,8 +4746,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B151_filtered_mm39_sqanti3
 bigDataUrl Old_B151_filtered/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Old B151 filt all
+longLabel Old B151 (filtered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -4896,8 +4896,8 @@ searchTrix Old_B151_filtered/trix.ix
 
 track Old_B151_filtered_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Old_B151_filtered/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Old B151 filt ISM
+longLabel Old B151 (filtered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -5044,8 +5044,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B151_filtered_mm39_sqanti3_full-splice_match
 bigDataUrl Old_B151_filtered/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Old B151 filt FSM
+longLabel Old B151 (filtered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -5192,8 +5192,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B151_filtered_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Old_B151_filtered/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Old B151 filt NNC
+longLabel Old B151 (filtered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -5340,8 +5340,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B151_filtered_mm39_sqanti3_novel_in_catalog
 bigDataUrl Old_B151_filtered/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Old B151 filt NIC
+longLabel Old B151 (filtered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -5488,8 +5488,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B151_filtered_mm39_sqanti3_fusion
 bigDataUrl Old_B151_filtered/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Old B151 filt fusion
+longLabel Old B151 (filtered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -5636,8 +5636,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B151_filtered_mm39_sqanti3_antisense
 bigDataUrl Old_B151_filtered/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Old B151 filt antisense
+longLabel Old B151 (filtered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -5784,8 +5784,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B152_filtered_mm39_sqanti3
 bigDataUrl Old_B152_filtered/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Old B152 filt all
+longLabel Old B152 (filtered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -5934,8 +5934,8 @@ searchTrix Old_B152_filtered/trix.ix
 
 track Old_B152_filtered_mm39_sqanti3_full-splice_match
 bigDataUrl Old_B152_filtered/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Old B152 filt FSM
+longLabel Old B152 (filtered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -6082,8 +6082,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B152_filtered_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Old_B152_filtered/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Old B152 filt ISM
+longLabel Old B152 (filtered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -6230,8 +6230,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B152_filtered_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Old_B152_filtered/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Old B152 filt NNC
+longLabel Old B152 (filtered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -6378,8 +6378,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B152_filtered_mm39_sqanti3_novel_in_catalog
 bigDataUrl Old_B152_filtered/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Old B152 filt NIC
+longLabel Old B152 (filtered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -6526,8 +6526,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B152_filtered_mm39_sqanti3_fusion
 bigDataUrl Old_B152_filtered/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Old B152 filt fusion
+longLabel Old B152 (filtered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -6674,8 +6674,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B152_filtered_mm39_sqanti3_antisense
 bigDataUrl Old_B152_filtered/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Old B152 filt antisense
+longLabel Old B152 (filtered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -6822,8 +6822,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B153_filtered_mm39_sqanti3
 bigDataUrl Old_B153_filtered/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Old B153 filt all
+longLabel Old B153 (filtered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -6972,8 +6972,8 @@ searchTrix Old_B153_filtered/trix.ix
 
 track Old_B153_filtered_mm39_sqanti3_full-splice_match
 bigDataUrl Old_B153_filtered/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Old B153 filt FSM
+longLabel Old B153 (filtered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -7120,8 +7120,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B153_filtered_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Old_B153_filtered/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Old B153 filt ISM
+longLabel Old B153 (filtered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -7268,8 +7268,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B153_filtered_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Old_B153_filtered/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Old B153 filt NNC
+longLabel Old B153 (filtered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -7416,8 +7416,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B153_filtered_mm39_sqanti3_novel_in_catalog
 bigDataUrl Old_B153_filtered/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Old B153 filt NIC
+longLabel Old B153 (filtered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -7564,8 +7564,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B153_filtered_mm39_sqanti3_antisense
 bigDataUrl Old_B153_filtered/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Old B153 filt antisense
+longLabel Old B153 (filtered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -7712,8 +7712,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B153_filtered_mm39_sqanti3_fusion
 bigDataUrl Old_B153_filtered/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Old B153 filt fusion
+longLabel Old B153 (filtered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -7860,8 +7860,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B154_filtered_mm39_sqanti3
 bigDataUrl Old_B154_filtered/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Old B154 filt all
+longLabel Old B154 (filtered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -8010,8 +8010,8 @@ searchTrix Old_B154_filtered/trix.ix
 
 track Old_B154_filtered_mm39_sqanti3_full-splice_match
 bigDataUrl Old_B154_filtered/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Old B154 filt FSM
+longLabel Old B154 (filtered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -8158,8 +8158,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B154_filtered_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Old_B154_filtered/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Old B154 filt ISM
+longLabel Old B154 (filtered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -8306,8 +8306,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B154_filtered_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Old_B154_filtered/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Old B154 filt NNC
+longLabel Old B154 (filtered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -8454,8 +8454,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B154_filtered_mm39_sqanti3_novel_in_catalog
 bigDataUrl Old_B154_filtered/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Old B154 filt NIC
+longLabel Old B154 (filtered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -8602,8 +8602,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B154_filtered_mm39_sqanti3_fusion
 bigDataUrl Old_B154_filtered/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Old B154 filt fusion
+longLabel Old B154 (filtered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group filtered
@@ -8750,8 +8750,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B31_mm39_sqanti3
 bigDataUrl Young_B31/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Young B31 all
+longLabel Young B31 (unfiltered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -8900,8 +8900,8 @@ searchTrix Young_B31/trix.ix
 
 track Young_B31_mm39_sqanti3_full-splice_match
 bigDataUrl Young_B31/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Young B31 FSM
+longLabel Young B31 (unfiltered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -9048,8 +9048,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B31_mm39_sqanti3_novel_in_catalog
 bigDataUrl Young_B31/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Young B31 NIC
+longLabel Young B31 (unfiltered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -9196,8 +9196,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B31_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Young_B31/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Young B31 NNC
+longLabel Young B31 (unfiltered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -9344,8 +9344,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B31_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Young_B31/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Young B31 ISM
+longLabel Young B31 (unfiltered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -9492,8 +9492,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B31_mm39_sqanti3_genic
 bigDataUrl Young_B31/mm39_sqanti3_genic.bb
-shortLabel SQANTI3 genic
-longLabel SQANTI3 genic transcripts
+shortLabel Young B31 genic
+longLabel Young B31 (unfiltered): SQANTI3 genic transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -9640,8 +9640,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B31_mm39_sqanti3_fusion
 bigDataUrl Young_B31/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Young B31 fusion
+longLabel Young B31 (unfiltered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -9788,8 +9788,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B31_mm39_sqanti3_antisense
 bigDataUrl Young_B31/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Young B31 antisense
+longLabel Young B31 (unfiltered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -9936,8 +9936,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B32_mm39_sqanti3
 bigDataUrl Young_B32/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Young B32 all
+longLabel Young B32 (unfiltered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -10086,8 +10086,8 @@ searchTrix Young_B32/trix.ix
 
 track Young_B32_mm39_sqanti3_antisense
 bigDataUrl Young_B32/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Young B32 antisense
+longLabel Young B32 (unfiltered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -10234,8 +10234,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B32_mm39_sqanti3_full-splice_match
 bigDataUrl Young_B32/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Young B32 FSM
+longLabel Young B32 (unfiltered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -10382,8 +10382,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B32_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Young_B32/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Young B32 ISM
+longLabel Young B32 (unfiltered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -10530,8 +10530,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B32_mm39_sqanti3_novel_in_catalog
 bigDataUrl Young_B32/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Young B32 NIC
+longLabel Young B32 (unfiltered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -10678,8 +10678,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B32_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Young_B32/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Young B32 NNC
+longLabel Young B32 (unfiltered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -10826,8 +10826,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B32_mm39_sqanti3_genic
 bigDataUrl Young_B32/mm39_sqanti3_genic.bb
-shortLabel SQANTI3 genic
-longLabel SQANTI3 genic transcripts
+shortLabel Young B32 genic
+longLabel Young B32 (unfiltered): SQANTI3 genic transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -10974,8 +10974,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B32_mm39_sqanti3_fusion
 bigDataUrl Young_B32/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Young B32 fusion
+longLabel Young B32 (unfiltered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -11122,8 +11122,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B33_mm39_sqanti3
 bigDataUrl Young_B33/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Young B33 all
+longLabel Young B33 (unfiltered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -11272,8 +11272,8 @@ searchTrix Young_B33/trix.ix
 
 track Young_B33_mm39_sqanti3_full-splice_match
 bigDataUrl Young_B33/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Young B33 FSM
+longLabel Young B33 (unfiltered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -11420,8 +11420,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B33_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Young_B33/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Young B33 NNC
+longLabel Young B33 (unfiltered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -11568,8 +11568,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B33_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Young_B33/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Young B33 ISM
+longLabel Young B33 (unfiltered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -11716,8 +11716,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B33_mm39_sqanti3_novel_in_catalog
 bigDataUrl Young_B33/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Young B33 NIC
+longLabel Young B33 (unfiltered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -11864,8 +11864,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B33_mm39_sqanti3_antisense
 bigDataUrl Young_B33/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Young B33 antisense
+longLabel Young B33 (unfiltered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -12012,8 +12012,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B33_mm39_sqanti3_genic
 bigDataUrl Young_B33/mm39_sqanti3_genic.bb
-shortLabel SQANTI3 genic
-longLabel SQANTI3 genic transcripts
+shortLabel Young B33 genic
+longLabel Young B33 (unfiltered): SQANTI3 genic transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -12160,8 +12160,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B33_mm39_sqanti3_fusion
 bigDataUrl Young_B33/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Young B33 fusion
+longLabel Young B33 (unfiltered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -12308,8 +12308,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B34_mm39_sqanti3
 bigDataUrl Young_B34/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Young B34 all
+longLabel Young B34 (unfiltered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -12458,8 +12458,8 @@ searchTrix Young_B34/trix.ix
 
 track Young_B34_mm39_sqanti3_antisense
 bigDataUrl Young_B34/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Young B34 antisense
+longLabel Young B34 (unfiltered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -12606,8 +12606,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B34_mm39_sqanti3_full-splice_match
 bigDataUrl Young_B34/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Young B34 FSM
+longLabel Young B34 (unfiltered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -12754,8 +12754,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B34_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Young_B34/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Young B34 ISM
+longLabel Young B34 (unfiltered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -12902,8 +12902,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B34_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Young_B34/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Young B34 NNC
+longLabel Young B34 (unfiltered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -13050,8 +13050,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B34_mm39_sqanti3_novel_in_catalog
 bigDataUrl Young_B34/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Young B34 NIC
+longLabel Young B34 (unfiltered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -13198,8 +13198,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B34_mm39_sqanti3_genic
 bigDataUrl Young_B34/mm39_sqanti3_genic.bb
-shortLabel SQANTI3 genic
-longLabel SQANTI3 genic transcripts
+shortLabel Young B34 genic
+longLabel Young B34 (unfiltered): SQANTI3 genic transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -13346,8 +13346,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B34_mm39_sqanti3_fusion
 bigDataUrl Young_B34/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Young B34 fusion
+longLabel Young B34 (unfiltered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -13494,8 +13494,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B35_mm39_sqanti3
 bigDataUrl Young_B35/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Young B35 all
+longLabel Young B35 (unfiltered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -13644,8 +13644,8 @@ searchTrix Young_B35/trix.ix
 
 track Young_B35_mm39_sqanti3_antisense
 bigDataUrl Young_B35/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Young B35 antisense
+longLabel Young B35 (unfiltered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -13792,8 +13792,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B35_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Young_B35/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Young B35 ISM
+longLabel Young B35 (unfiltered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -13940,8 +13940,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B35_mm39_sqanti3_novel_in_catalog
 bigDataUrl Young_B35/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Young B35 NIC
+longLabel Young B35 (unfiltered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -14088,8 +14088,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B35_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Young_B35/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Young B35 NNC
+longLabel Young B35 (unfiltered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -14236,8 +14236,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B35_mm39_sqanti3_full-splice_match
 bigDataUrl Young_B35/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Young B35 FSM
+longLabel Young B35 (unfiltered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -14384,8 +14384,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B35_mm39_sqanti3_genic
 bigDataUrl Young_B35/mm39_sqanti3_genic.bb
-shortLabel SQANTI3 genic
-longLabel SQANTI3 genic transcripts
+shortLabel Young B35 genic
+longLabel Young B35 (unfiltered): SQANTI3 genic transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -14532,8 +14532,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Young_B35_mm39_sqanti3_fusion
 bigDataUrl Young_B35/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Young B35 fusion
+longLabel Young B35 (unfiltered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -14680,8 +14680,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B151_mm39_sqanti3
 bigDataUrl Old_B151/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Old B151 all
+longLabel Old B151 (unfiltered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -14830,8 +14830,8 @@ searchTrix Old_B151/trix.ix
 
 track Old_B151_mm39_sqanti3_antisense
 bigDataUrl Old_B151/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Old B151 antisense
+longLabel Old B151 (unfiltered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -14978,8 +14978,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B151_mm39_sqanti3_full-splice_match
 bigDataUrl Old_B151/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Old B151 FSM
+longLabel Old B151 (unfiltered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -15126,8 +15126,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B151_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Old_B151/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Old B151 ISM
+longLabel Old B151 (unfiltered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -15274,8 +15274,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B151_mm39_sqanti3_novel_in_catalog
 bigDataUrl Old_B151/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Old B151 NIC
+longLabel Old B151 (unfiltered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -15422,8 +15422,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B151_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Old_B151/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Old B151 NNC
+longLabel Old B151 (unfiltered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -15570,8 +15570,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B151_mm39_sqanti3_genic
 bigDataUrl Old_B151/mm39_sqanti3_genic.bb
-shortLabel SQANTI3 genic
-longLabel SQANTI3 genic transcripts
+shortLabel Old B151 genic
+longLabel Old B151 (unfiltered): SQANTI3 genic transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -15718,8 +15718,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B151_mm39_sqanti3_fusion
 bigDataUrl Old_B151/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Old B151 fusion
+longLabel Old B151 (unfiltered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -15866,8 +15866,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B152_mm39_sqanti3
 bigDataUrl Old_B152/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Old B152 all
+longLabel Old B152 (unfiltered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -16016,8 +16016,8 @@ searchTrix Old_B152/trix.ix
 
 track Old_B152_mm39_sqanti3_full-splice_match
 bigDataUrl Old_B152/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Old B152 FSM
+longLabel Old B152 (unfiltered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -16164,8 +16164,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B152_mm39_sqanti3_novel_in_catalog
 bigDataUrl Old_B152/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Old B152 NIC
+longLabel Old B152 (unfiltered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -16312,8 +16312,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B152_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Old_B152/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Old B152 ISM
+longLabel Old B152 (unfiltered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -16460,8 +16460,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B152_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Old_B152/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Old B152 NNC
+longLabel Old B152 (unfiltered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -16608,8 +16608,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B152_mm39_sqanti3_antisense
 bigDataUrl Old_B152/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Old B152 antisense
+longLabel Old B152 (unfiltered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -16756,8 +16756,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B152_mm39_sqanti3_genic
 bigDataUrl Old_B152/mm39_sqanti3_genic.bb
-shortLabel SQANTI3 genic
-longLabel SQANTI3 genic transcripts
+shortLabel Old B152 genic
+longLabel Old B152 (unfiltered): SQANTI3 genic transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -16904,8 +16904,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B152_mm39_sqanti3_fusion
 bigDataUrl Old_B152/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Old B152 fusion
+longLabel Old B152 (unfiltered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -17052,8 +17052,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B153_mm39_sqanti3
 bigDataUrl Old_B153/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Old B153 all
+longLabel Old B153 (unfiltered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -17202,8 +17202,8 @@ searchTrix Old_B153/trix.ix
 
 track Old_B153_mm39_sqanti3_antisense
 bigDataUrl Old_B153/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Old B153 antisense
+longLabel Old B153 (unfiltered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -17350,8 +17350,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B153_mm39_sqanti3_full-splice_match
 bigDataUrl Old_B153/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Old B153 FSM
+longLabel Old B153 (unfiltered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -17498,8 +17498,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B153_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Old_B153/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Old B153 NNC
+longLabel Old B153 (unfiltered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -17646,8 +17646,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B153_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Old_B153/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Old B153 ISM
+longLabel Old B153 (unfiltered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -17794,8 +17794,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B153_mm39_sqanti3_novel_in_catalog
 bigDataUrl Old_B153/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Old B153 NIC
+longLabel Old B153 (unfiltered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -17942,8 +17942,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B153_mm39_sqanti3_genic
 bigDataUrl Old_B153/mm39_sqanti3_genic.bb
-shortLabel SQANTI3 genic
-longLabel SQANTI3 genic transcripts
+shortLabel Old B153 genic
+longLabel Old B153 (unfiltered): SQANTI3 genic transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -18090,8 +18090,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B153_mm39_sqanti3_fusion
 bigDataUrl Old_B153/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Old B153 fusion
+longLabel Old B153 (unfiltered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -18238,8 +18238,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B154_mm39_sqanti3
 bigDataUrl Old_B154/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Old B154 all
+longLabel Old B154 (unfiltered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -18388,8 +18388,8 @@ searchTrix Old_B154/trix.ix
 
 track Old_B154_mm39_sqanti3_full-splice_match
 bigDataUrl Old_B154/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Old B154 FSM
+longLabel Old B154 (unfiltered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -18536,8 +18536,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B154_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Old_B154/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Old B154 NNC
+longLabel Old B154 (unfiltered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -18684,8 +18684,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B154_mm39_sqanti3_novel_in_catalog
 bigDataUrl Old_B154/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Old B154 NIC
+longLabel Old B154 (unfiltered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -18832,8 +18832,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B154_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Old_B154/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Old B154 ISM
+longLabel Old B154 (unfiltered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -18980,8 +18980,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B154_mm39_sqanti3_genic
 bigDataUrl Old_B154/mm39_sqanti3_genic.bb
-shortLabel SQANTI3 genic
-longLabel SQANTI3 genic transcripts
+shortLabel Old B154 genic
+longLabel Old B154 (unfiltered): SQANTI3 genic transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -19128,8 +19128,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B154_mm39_sqanti3_antisense
 bigDataUrl Old_B154/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Old B154 antisense
+longLabel Old B154 (unfiltered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -19276,8 +19276,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Old_B154_mm39_sqanti3_fusion
 bigDataUrl Old_B154/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Old B154 fusion
+longLabel Old B154 (unfiltered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group unfiltered
@@ -19424,8 +19424,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Merged_mm39_sqanti3
 bigDataUrl Merged/mm39_sqanti3.bb
-shortLabel SQANTI3 Transcripts
-longLabel SQANTI3 Transcriptome Analysis Results
+shortLabel Merged all
+longLabel Merged (unfiltered): all SQANTI3 transcripts
 type bigBed 12 + 44
 filter.length 0:150000
 filterByRange.length on
@@ -19575,8 +19575,8 @@ searchIndex name
 
 track Merged_mm39_sqanti3_full-splice_match
 bigDataUrl Merged/mm39_sqanti3_full-splice_match.bb
-shortLabel SQANTI3 full-splice_match
-longLabel SQANTI3 full-splice_match transcripts
+shortLabel Merged FSM
+longLabel Merged (unfiltered): SQANTI3 full-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group merged
@@ -19725,8 +19725,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Merged_mm39_sqanti3_incomplete-splice_match
 bigDataUrl Merged/mm39_sqanti3_incomplete-splice_match.bb
-shortLabel SQANTI3 incomplete-splice_match
-longLabel SQANTI3 incomplete-splice_match transcripts
+shortLabel Merged ISM
+longLabel Merged (unfiltered): SQANTI3 incomplete-splice_match transcripts
 type bigBed 12 + 44
 visibility hide
 group merged
@@ -19875,8 +19875,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Merged_mm39_sqanti3_novel_not_in_catalog
 bigDataUrl Merged/mm39_sqanti3_novel_not_in_catalog.bb
-shortLabel SQANTI3 novel_not_in_catalog
-longLabel SQANTI3 novel_not_in_catalog transcripts
+shortLabel Merged NNC
+longLabel Merged (unfiltered): SQANTI3 novel_not_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group merged
@@ -20025,8 +20025,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Merged_mm39_sqanti3_novel_in_catalog
 bigDataUrl Merged/mm39_sqanti3_novel_in_catalog.bb
-shortLabel SQANTI3 novel_in_catalog
-longLabel SQANTI3 novel_in_catalog transcripts
+shortLabel Merged NIC
+longLabel Merged (unfiltered): SQANTI3 novel_in_catalog transcripts
 type bigBed 12 + 44
 visibility hide
 group merged
@@ -20175,8 +20175,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Merged_mm39_sqanti3_fusion
 bigDataUrl Merged/mm39_sqanti3_fusion.bb
-shortLabel SQANTI3 fusion
-longLabel SQANTI3 fusion transcripts
+shortLabel Merged fusion
+longLabel Merged (unfiltered): SQANTI3 fusion transcripts
 type bigBed 12 + 44
 visibility hide
 group merged
@@ -20325,8 +20325,8 @@ filterLabel.blockCount Number of exons (from BED)
 
 track Merged_mm39_sqanti3_antisense
 bigDataUrl Merged/mm39_sqanti3_antisense.bb
-shortLabel SQANTI3 antisense
-longLabel SQANTI3 antisense transcripts
+shortLabel Merged antisense
+longLabel Merged (unfiltered): SQANTI3 antisense transcripts
 type bigBed 12 + 44
 visibility hide
 group merged

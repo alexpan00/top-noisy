@@ -17,6 +17,16 @@ shutil.copy("hubs/Old_B151/README.md", f"{out}/README.md")
 plan = [(f"{s}_filtered", "filtered", i) for i, s in enumerate(order)] + \
        [(s, "unfiltered", i) for i, s in enumerate(order)] + [("Merged", "merged", 0)]
 blocks = []
+ABBR = {"full-splice_match": "FSM", "incomplete-splice_match": "ISM", "novel_in_catalog": "NIC",
+        "novel_not_in_catalog": "NNC", "antisense": "antisense", "genic": "genic", "fusion": "fusion",
+        "intergenic": "intergenic", "genic_intron": "genic_intron"}
+def labels(hub, name):
+    tag = hub.replace("_filtered", "").replace("_", " ") + (" filt" if hub.endswith("_filtered") else "")
+    long_tag = hub.replace("_filtered", "").replace("_", " ") + (" (filtered)" if hub.endswith("_filtered") else " (unfiltered)")
+    cat = name[len("mm39_sqanti3_"):] if name != "mm39_sqanti3" else ""
+    short = f"{tag} {ABBR.get(cat, cat)}".strip() if cat else f"{tag} all"
+    long = f"{long_tag}: SQANTI3 {cat} transcripts" if cat else f"{long_tag}: all SQANTI3 transcripts"
+    return short, long
 for hub, group, i in plan:
     src = f"hubs/{hub}/mm39"
     shutil.copytree(src, f"{out}/mm39/{hub}", ignore=shutil.ignore_patterns("trackDb.txt", "groups.txt"))
@@ -28,6 +38,9 @@ for hub, group, i in plan:
         blk = re.sub(r"^group \S+", f"group {group}", blk, flags=re.M)
         blk = re.sub(r"^priority \S+", f"priority {i + 1 + (0 if main else 0.5)}", blk, flags=re.M)
         blk = re.sub(r"^visibility \S+", f"visibility {'pack' if main and group != 'merged' else 'hide'}", blk, flags=re.M)
+        short, long = labels(hub, name)
+        blk = re.sub(r"^shortLabel .*$", f"shortLabel {short}", blk, flags=re.M)
+        blk = re.sub(r"^longLabel .*$", f"longLabel {long}", blk, flags=re.M)
         blocks.append(blk)
 open(f"{out}/mm39/trackDb.txt", "w").write("\n\n".join(blocks) + "\n")
 print(len(blocks), "tracks ->", out)
