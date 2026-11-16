@@ -1,0 +1,14 @@
+name filtered
+label Top500 filtered (CAGE<=50bp, FL>=2, canonical, no RTS, no NMD)
+priority 1
+defaultIsClosed 0
+
+name unfiltered
+label Top500 unfiltered
+priority 2
+defaultIsClosed 0
+
+name merged
+label Merged transcriptome (all samples, no FL)
+priority 3
+defaultIsClosed 1

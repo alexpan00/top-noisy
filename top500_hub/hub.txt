@@ -1,0 +1,6 @@
+hub Pool1_top500_mouse_brain
+shortLabel Top500 young vs old
+longLabel SQANTI-browser: top 500 pool1 genes (old-young noisy ratio), 5 young and 4 old mouse brains
+genomesFile genomes.txt
+email sqanti3_user@users.noreply.github.com
+descriptionUrl README.md
