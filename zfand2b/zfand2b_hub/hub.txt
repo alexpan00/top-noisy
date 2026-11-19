@@ -1,0 +1,6 @@
+hub Zfand2b_mouse_brain
+shortLabel Zfand2b young vs old
+longLabel SQANTI-browser: Zfand2b locus, FLAIR merged (per-sample FL) and TAMA per-sample, 5 young and 4 old mouse brains
+genomesFile genomes.txt
+email sqanti3_user@users.noreply.github.com
+descriptionUrl README.md
