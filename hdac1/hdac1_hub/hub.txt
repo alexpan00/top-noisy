@@ -1,0 +1,6 @@
+hub Hdac1_mouse_brain
+shortLabel Hdac1 young vs old
+longLabel SQANTI-browser: Hdac1 locus, FLAIR merged (per-sample FL) and TAMA per-sample, 5 young and 4 old mouse brains
+genomesFile genomes.txt
+email sqanti3_user@users.noreply.github.com
+descriptionUrl README.md

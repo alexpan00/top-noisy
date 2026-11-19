@@ -1,0 +1,14 @@
+name flair_filtered
+label FLAIR filtered (CAGE<=50bp, FL>=3, canonical, no RTS, no NMD)
+priority 1
+defaultIsClosed 0
+
+name flair_unfiltered
+label FLAIR unfiltered
+priority 2
+defaultIsClosed 0
+
+name tama
+label TAMA per-sample, unfiltered
+priority 3
+defaultIsClosed 1
